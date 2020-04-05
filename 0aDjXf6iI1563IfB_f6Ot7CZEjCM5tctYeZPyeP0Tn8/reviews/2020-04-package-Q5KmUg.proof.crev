@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-05T23:08:07.988948600+03:00"
+from:
+  id-type: crev
+  id: 0aDjXf6iI1563IfB_f6Ot7CZEjCM5tctYeZPyeP0Tn8
+  url: "https://github.com/kotauskas/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: foreign-types
+  version: 0.3.2
+  digest: LPmi2q28PQUwI7c77l1YqJAhp-K7lTtEJoTiYmwbwkg
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  The issue reported before related to unsafety hiding has been resolved by the author. As such, the crate can now be considered fully sound.
+----- SIGN CREV PROOF -----
+AP8GnJXmlzkqbJNRN1oVNG5CMNgZ0blI4fcXbCN9c-LzChDUzSxvfjBHd9Y4YGcvI85w_fSSNF88rVKq50MTAg
+----- END CREV PROOF -----
+
